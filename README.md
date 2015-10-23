@@ -1,12 +1,10 @@
-## Text Rain
+# Text Rain
 
 Charles Park & Marcio Porto
 
-COMP 394
-Interactive Graphics
-Homework 1 - Text Rain
+COMP 394 - Interactive Graphics - Homework 1 - Text Rain
 
-# Overview
+## Overview
 
 We created an Array of the Letter class that we defined. In that Letter class, the constructor initializes the following:
 - RandomInt so that the letter is randomly placed across the screen (width)
