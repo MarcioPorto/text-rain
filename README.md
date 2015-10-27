@@ -1,4 +1,4 @@
-# Text Rain
+# Text Rain Homework
 
 Charles Park & Marcio Porto
 
